@@ -82,7 +82,7 @@ header img {
 	width: 250x;
 	height: 250px;
 	margin-right: auto;
-	margin-left: 32.5%;
+    margin-left: auto;
 	margin-top: 5em;
 	margin-bottom: 2.5em;
 	border-radius: 50%;

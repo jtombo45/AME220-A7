@@ -1,0 +1,7 @@
+{
+  "appId": "com.ame.jude",
+  "appName": "resume",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
